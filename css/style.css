@@ -1,0 +1,17 @@
+.circle {
+    width:0px;
+    margin:20px;
+    padding:110px;
+    border:solid 25px black;
+    font-size:200px;
+    border-radius: 500px;
+    }
+    #green {
+    background-color:#00ff00;
+    }
+    #yellow {
+    background-color:#ffff00;
+    }
+    #red {
+    background-color:#ff0000;
+    }
